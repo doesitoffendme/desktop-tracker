@@ -4,6 +4,5 @@ public class Tracker {
 
         MyThread thread = new MyThread();
         thread.start();
-
     }
 }
